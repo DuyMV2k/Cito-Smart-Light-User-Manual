@@ -32,7 +32,7 @@ Hai cách dùng song song thoải mái. Bấm remote thì màn hình điện tho
 
 ```
         ┌───────────────┐
-        │       ⏻       │   ⏻   không dùng
+        │               │   
         │   1   2   3   │   1 2 3 4 5   →  nấc sáng nhanh (xem bảng dưới)
         │   4   5   6   │   * 0 #
         │   7   8   9   │
